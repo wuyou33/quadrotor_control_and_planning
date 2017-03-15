@@ -6,4 +6,7 @@ In phase 2, I developed an efficient and intuitive map data storage and achieved
  
 In phase 3, I post-processed the output of Astar/Dijkstra to reduce the trajectory length and time. Basically, I replaced segments between path points with no obstacles in between them with a straight line. 
  
-In phase 4, I implemented control and trajectory generation alogorithm into a real world quadrotor Grazyflie 2.0 with VICON and ROS system for 3 tasks.
+In phase 4, I implemented control and trajectory generation alogorithm into a real world quadrotor Grazyflie 2.0 with VICON and ROS system for 3 tasks. I tried diffent trajectory like 3rd order minimum accleration and 7th order minimum snap as well as different constrains at waypoints like zero or continuous velocity.
+
+https://youtu.be/Vn3-uVWl6RQ ; https://youtu.be/dtDL0dvO6yI
+
