@@ -1,4 +1,4 @@
-# MEAM620_Project1
+# Upenn MEAM620 Advanced Robotics, Project1
 
 In phase 1, I applied quintic trajectory planning and PID hover controller on position(xyz) and attitude(euler angles) for the quadrotor dynamic control so that it could follow path with accuracy and speed.
  
